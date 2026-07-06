@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
 ## Hash Table
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
