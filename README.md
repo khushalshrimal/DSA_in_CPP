@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
