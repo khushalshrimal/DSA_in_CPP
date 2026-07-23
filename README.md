@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0053-maximum-subarray) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0131-palindrome-partitioning) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
