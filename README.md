@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
