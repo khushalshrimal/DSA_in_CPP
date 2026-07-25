@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
