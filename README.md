@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0039-combination-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
