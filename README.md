@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
