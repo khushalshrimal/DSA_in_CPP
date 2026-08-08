@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0151-reverse-words-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
