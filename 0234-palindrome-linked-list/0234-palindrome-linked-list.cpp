@@ -1,43 +1,39 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-         ListNode* copyhead = new ListNode(head->val);
-         ListNode* temp = head->next;
-         ListNode* copy = copyhead;
 
-while (temp != NULL) {
-    copy->next = new ListNode(temp->val);
-    copy = copy->next;
-    temp = temp->next;
-}
-        ListNode* current=head;
-        ListNode* prev=NULL;
-        while(current!=NULL){
-            ListNode* newnode=current->next;
-            current->next=prev;
-            prev=current;
-            current=newnode;
+        // 1. Find middle using slow and fast
+        ListNode* slow = head;
+        ListNode* fast = head;
 
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        while(copyhead!=NULL){
-            if(copyhead->val!=prev->val){
+
+        // 2. Reverse second half
+        ListNode* prev = NULL;
+
+        while (slow != NULL) {
+            ListNode* nextNode = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = nextNode;
+        }
+
+        // 3. Compare first half and reversed second half
+        ListNode* first = head;
+        ListNode* second = prev;
+
+        while (second != NULL) {
+            if (first->val != second->val) {
                 return false;
             }
-            copyhead=copyhead->next;
-            prev=prev->next;
 
+            first = first->next;
+            second = second->next;
         }
+
         return true;
-        
     }
 };
