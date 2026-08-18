@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0560-subarray-sum-equals-k) |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
 | [2965-find-missing-and-repeated-values](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -219,4 +220,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
