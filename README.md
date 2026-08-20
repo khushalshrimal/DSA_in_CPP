@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -245,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
