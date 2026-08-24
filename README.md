@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0739-daily-temperatures) |
 | [1584-min-cost-to-connect-all-points](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1584-min-cost-to-connect-all-points) |
 | [2965-find-missing-and-repeated-values](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0739-daily-temperatures) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
