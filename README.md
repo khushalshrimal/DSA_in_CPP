@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0509-fibonacci-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0234-palindrome-linked-list) |
