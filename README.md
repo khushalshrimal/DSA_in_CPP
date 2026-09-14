@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0567-permutation-in-string) |
 ## Depth-First Search
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -298,4 +301,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
