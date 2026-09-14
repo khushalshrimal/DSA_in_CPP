@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0836-rectangle-overlap) |
 | [2965-find-missing-and-repeated-values](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0102-binary-tree-level-order-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
