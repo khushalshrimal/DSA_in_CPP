@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0509-fibonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2965-find-missing-and-repeated-values](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Quicksort
 |  |
 | ------- |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
