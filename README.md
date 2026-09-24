@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0735-asteroid-collision) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0567-permutation-in-string) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -315,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
@@ -328,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -340,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
