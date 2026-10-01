@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Prefix Sum
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0347-top-k-frequent-elements) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/khushalshrimal/DSA_in_CPP/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
